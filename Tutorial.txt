@@ -1,0 +1,20 @@
+ ## Container :
+ Container are used to constrain a content's width to the 
+ current breakpoint, while keeping it fluid.
+
+ Default values:
+ maxWidth = 60ch(characters) {customizable using maxWidth}
+
+
+ ## Box :
+ Box is the most abstract component on top of which all
+ other Chakra UI component are built.
+ By default, it renders like a 'div' element
+
+ Usage: 
+ 1 Create responsive layouts with ease.
+ 2 Provide a shorthand way to pass styles via props
+ (bg instead of backgroundColor)
+ 3 Compose new component and allow for override using the as prop.
+
+ ## HStack :
